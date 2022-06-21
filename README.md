@@ -1,16 +1,9 @@
 # platzi_trips_aplication
 
-Aplicacion que utilizaremos en el curso de Flutter basico y avanzado en platzi
+Aplicacion que utilizaremos en el curso de Flutter basico y avanzado en platzi.
+Para este curso se creo una app de viajes donde se puede insertar imagenes y textos en firebase,
+además de poder bajar las mismas imagenes para mostrar al usuario.
+Se utilizaron estas tecnologias:
+- Firebase (Autenticacion con Google y Escritura/Lectura de Datos)
+- Flutter/Dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
